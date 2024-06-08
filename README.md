@@ -6,6 +6,7 @@
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=zvinny&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvinny&hide_progress=true)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -20,3 +21,4 @@
 </div><br/>
 
 Estudante de ciência da computação mergulhando de cabeça no mundo da tecnologia e desenvolvimento, dedicado ao aprendizado de Java e entusiasmado em explorar o Spring, além de ter uma base sólida em Python, HTML, CSS, JavaScript e MySQL. Sempre em evolução, buscando aprender e compartilhar conhecimento no GitHub!
+
