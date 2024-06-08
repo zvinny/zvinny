@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvinny&hide_progress=true)
 
-## Tecnologias que eu uso no meu dia
+## 💻 Tecnologias que eu uso no meu dia.
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -20,5 +20,6 @@
      <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-Estudante de ciência da computação mergulhando de cabeça no mundo da tecnologia e desenvolvimento, dedicado ao aprendizado de Java e entusiasmado em explorar o Spring, além de ter uma base sólida em Python, HTML, CSS, JavaScript e MySQL. Sempre em evolução, buscando aprender e compartilhar conhecimento no GitHub!
+👨‍💻
+- Estudante de ciência da computação mergulhando de cabeça no mundo da tecnologia e desenvolvimento, dedicado ao aprendizado de Java e entusiasmado em explorar o Spring, além de ter uma base sólida em Python, HTML, CSS, JavaScript e MySQL. Sempre em evolução, buscando aprender e compartilhar conhecimento no GitHub!
 
